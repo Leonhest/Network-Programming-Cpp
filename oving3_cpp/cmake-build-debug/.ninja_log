@@ -1,0 +1,11 @@
+# ninja log v5
+0	136	1681129332424661013	CMakeFiles/oving3_cpp.dir/SocketServer.cpp.o	b473dd7ef133f23a
+1	371	1681149709796141787	CMakeFiles/SocketClient.dir/SocketClient.cpp.o	97452698c92cc915
+0	313	1681151391380233243	CMakeFiles/MultiServer.dir/MultiServer.cpp.o	8bd695d4efe1eb81
+0	408	1681129332695601784	CMakeFiles/oving3_cpp.dir/SocketClient.cpp.o	a9edbf1851750643
+0	338	1681149141993360019	CMakeFiles/SocketServer.dir/SocketServer.cpp.o	870523c664af1912
+4	133	1681149136012102445	CMakeFiles/SocketClient.dir/Data.cpp.o	2eda8c453bfb3cc0
+0	97	1681150925156055362	SocketClient	cc1a37b4ae62297d
+338	374	1681149142031372755	SocketServer	90bb8b3e7228673c
+314	407	1681151391479344690	MultiServer	5f3b10678c5d4824
+1	40	1681150882940530658	CMakeFiles/SocketClient.dir/MultiServer.cpp.o	df5374493c02d582

@@ -1,0 +1,4 @@
+/Users/leonhesthaug/IDATT2104_NETT/oving3_cpp/cmake-build-debug/CMakeFiles/SocketClient.dir
+/Users/leonhesthaug/IDATT2104_NETT/oving3_cpp/cmake-build-debug/CMakeFiles/MultiServer.dir
+/Users/leonhesthaug/IDATT2104_NETT/oving3_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leonhesthaug/IDATT2104_NETT/oving3_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

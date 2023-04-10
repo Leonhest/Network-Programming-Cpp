@@ -1,0 +1,3 @@
+/Users/leonhesthaug/IDATT2104_NETT/oving1_cpp/cmake-build-debug/CMakeFiles/oving1_cpp.dir
+/Users/leonhesthaug/IDATT2104_NETT/oving1_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leonhesthaug/IDATT2104_NETT/oving1_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
